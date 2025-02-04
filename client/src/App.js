@@ -53,10 +53,10 @@ const App = () => {
       <div className="min-h-screen">
         <header className="pt-16 pb-12 text-center">
           <h1 className="text-5xl font-semibold text-neutral-900 mb-2">
-            Professional Seminars
+            Профессиональные семинары
           </h1>
           <p className="text-xl text-neutral-500">
-            Elevate your expertise
+            Повысьте свой профессиональный уровень
           </p>
         </header>
 
